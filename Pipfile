@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+sklearn = "*"
+pylint = "*"
+category-encoders = "*"
+sklearn-pandas = "*"
+ipykernel = "*"
+joblib = "*"
+imblearn = "*"
+setuptools = "*"
+wheel = "*"
+scipy = "*"
+lightgbm = "*"
+
+[requires]
+python_version = "3.7"
