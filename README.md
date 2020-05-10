@@ -1,4 +1,4 @@
-# Advanced Machine Learning Project : Bénédicte - El Hadji - Juan 
+# Advanced Machine Learning Project
 
 ## Description
 This project is aim to use and assemble most of the tools for Machine Learning learned during the Yotta Academy Bootcamp.
